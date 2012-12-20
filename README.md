@@ -1,9 +1,9 @@
 # 示例代码
     \section{标题页}
     \title{后张法预应力梁孔道压浆材料的研制}
-    \author[余洪斌]{{\scriptsize\bfseries 余洪斌}\\ {\scriptsize\bfseries 指导老师：李益进老师}}
+    \author[EvanYu]{{\scriptsize\bfseries EvanYu}\\ {\scriptsize\bfseries 指导老师：xx老师}}
     \institute[土木工程材料研究所]{土木工程材料研究所}
-    \date{2012年12月19日}
+    \date{\today}
     \begin{frame}[plain]
        \titlepage % 输出标题页
     \end{frame}
